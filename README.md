@@ -11,3 +11,5 @@ Markdown
 - [자료구조란?](자료구조/자료구조란.md)
 
 - [배열](자료구조/배열.ipynb)
+
+- [Queue](자료구조/Queue.ipynb)
