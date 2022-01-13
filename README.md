@@ -13,3 +13,7 @@ Markdown
 - [배열](자료구조/배열.ipynb)
 
 - [Queue](자료구조/Queue.ipynb)
+
+- [Stack](자료구조/Stack.ipynb)
+
+- [Linked_List1](자료구조/Linked_List.ipynb)
