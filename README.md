@@ -16,4 +16,6 @@ Markdown
 
 - [Stack](자료구조/Stack.ipynb)
 
-- [Linked_List1](자료구조/Linked_List.ipynb)
+- [Linked_List1](자료구조/Linked_List1.ipynb)
+
+- [Linked_List2](자료구조/Linked_List2.ipynb)
